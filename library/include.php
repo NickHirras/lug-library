@@ -10,10 +10,10 @@
  ****************************************************************************/
 
 // Information for connecting to mysql.
-$db_host 	= 'localhost';
-$db_user 	= 'myname';
-$db_pass	= 'mypassword';
-$db_name	= 'databasename';
+$db_host 	= '127.0.0.1';
+$db_user 	= 'root';
+$db_pass	= 'root';
+$db_name	= 'pluglib';
 
 
 ?>
