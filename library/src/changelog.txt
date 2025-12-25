@@ -1,0 +1,11 @@
+Change-Log
+==========
+
+2003/03/13 - imnes@go.com 
+	Original library application packaged and released.
+
+2003/03/14 - imnes@go.com
+	Added capability for users to select for themsleves
+	which theme / template they would like to view
+	the site with.
+
